@@ -11,6 +11,8 @@ header{
     color:  cornflowerblue;
     display: flex;
     justify-content: center;
+	text-align: center;
+	
 }
 
 header>h1{
@@ -28,6 +30,10 @@ img{
 	border: 1px solid black;
 	border-radius: 10px;
 	text-align: center;
+}
+
+.latest-news-section{
+	background-color: none;
 }
 
 .pictorial-news-section{
