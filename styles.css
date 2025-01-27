@@ -29,3 +29,12 @@ img{
 	border-radius: 10px;
 	text-align: center;
 }
+
+.pictorial-news-section{
+	 width: 100px;
+	border: 1px ;
+	border-radius: 10px;
+	text-align: center;
+	padding: 0px;
+	background-color: none;
+}
